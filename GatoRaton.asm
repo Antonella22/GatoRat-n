@@ -25,6 +25,6 @@ inicio
 	    bcf STATUS,RP0         ;RP0 = 0
 	    bcf STATUS,RP1	   ;RP0 = 0, devuelta al banco 0
 bucle
-
+	    
 
 
